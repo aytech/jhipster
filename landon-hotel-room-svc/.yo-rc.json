@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.landon.hotel"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "microservice",
+    "baseName": "roomservice",
+    "packageName": "com.landon.hotel",
+    "packageFolder": "com/landon/hotel",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWJkZjkyODIxMjI1ZTg3NmZkYmQ3NTQ2MDMwNTA2MzM0NzMwMDM1M2JkMTZkMjZlOTM2YTQ2ZDZmNzNmNTg1NmJhZThhMmVjNzRmNjYwYjUzYzhmNmZmNWUxZGQ1ZWRkYzU3NjNjZGM5NjQyYjZhNDQ0YWUzYzBkMGMyM2U4Yzk=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
