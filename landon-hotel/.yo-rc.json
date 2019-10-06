@@ -9,7 +9,7 @@
     "baseName": "landonhotel",
     "packageName": "com.landon.hotel",
     "packageFolder": "com/landon/hotel",
-    "serverPort": "8082",
+    "serverPort": "8080",
     "authenticationType": "jwt",
     "cacheProvider": "hazelcast",
     "enableHibernateCache": true,
